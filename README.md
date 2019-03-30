@@ -7,7 +7,7 @@ And then, it generates the user-like tweets automatically.
 Finally, it tweets generated tweet.
 
 *Developing information*  
-method: GAN (Generative Adversarial Network) ...maybe:)  
+method: Karkov chain    
 development environment: google colaboratory ...maybe:)  
 language: python3
 
