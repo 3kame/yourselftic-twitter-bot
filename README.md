@@ -7,7 +7,7 @@ And then, it generates the user-like tweets automatically.
 Finally, it tweets generated tweet.
 
 *Developing information*  
-method: Karkov chain    
+method: LSTM    
 development environment: google colaboratory ...maybe:)  
 language: python3
 
